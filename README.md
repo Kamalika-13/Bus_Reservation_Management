@@ -1,19 +1,24 @@
 # Bus_Reservation_Management
-The Bus Reservation System is a Java-based application that automates bus ticket booking. It allows passengers to register, view buses, check seat availability, and make reservations, ensuring accuracy, reducing errors, and simplifying passenger and bus management.
+🚍 Bus Reservation System
 
-Tech Stack
+The Bus Reservation System is a Core Java-based application designed to automate and simplify bus ticket booking. It provides passengers with a smooth and reliable booking experience by allowing them to register, view buses, check seat availability, and reserve seats instantly. The system reduces manual errors, enhances accuracy, and streamlines passenger and bus management.
+
+🔧 Tech Stack
+
 Language: Core Java
 
-Database: mySql
+Database: MySQL
 
-Java Technologies: JDBC
-Features
-Passenger Management – Register and maintain passenger details.
+Java Technology: JDBC
 
-Bus Management – Store and display information about buses, including route, capacity, and availability.
+🌟 Key Features
 
-Seat Booking – Passengers can view available seats and reserve them instantly.
+Passenger Management – Register and maintain passenger information seamlessly.
 
-Reservation Records – Maintains a history of bookings for easy tracking.
+Bus Management – Store and display bus details, including routes, seating capacity, and availability.
 
-Database Integration – Uses JDBC with SQL for storing and retrieving data securely.
+Seat Booking – View real-time seat availability and confirm reservations instantly.
+
+Reservation Records – Maintain a complete history of passenger bookings for tracking and reference.
+
+Database Integration – Securely store and retrieve data using JDBC with MySQL.
